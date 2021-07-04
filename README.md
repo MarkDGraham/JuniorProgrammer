@@ -6,7 +6,7 @@
 <b>Start Date:</b> July 4, 2021 <br />
 <br />
 <br />
-<ins>Project: Getting Started </ins> <br />
+<ins><b>Project:</b> Getting Started </ins> <br />
 <b>Descripiton:</b> <br />
 &emsp; Project gives general overview of the later projects and the purpose of pathway. Additionally, this project's tutorial aids in installing the Unity software (version 2020.3 LTS), Unity Hub, and Visual Studio (version 2019). <br />
 <b>Start Date:</b> July 4, 2021 <br />
