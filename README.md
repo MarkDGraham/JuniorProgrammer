@@ -16,5 +16,8 @@
 <ins><b>Project:</b> Unit 1 - Introduction </ins> <br />
 <b>Description:</b> <br />
 &emsp; This project teaches how to create new C# scripts, call basic functions, and declare and modify new variables. <br />
+<b>Software Versions:</b> <br />
+&emsp; <b>Unity:</b> 2020.3 LTS <br />
+&emsp; <b>Visual Studio:</b> 2019 <br />
 <b>Start Date:</b> July 4, 2021 <br />
 <b>Finish Date:</b> TBD <br />
