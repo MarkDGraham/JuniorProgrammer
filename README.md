@@ -2,8 +2,9 @@
 
 Programmer: Mark G. <br />
 Repository Description: <br />
-&emsp; This repository is work created for the Junior Programmer Pathway of Unity Learn. As the tasks are completed, files will be upload <br /> 
-&emsp; and a WebGL link will be present in this file. Additionally, date of completion will also be added with a brief description of the file. <br />
+&emsp; This repository is work created for the Junior Programmer Pathway of Unity Learn. As the tasks are completed, files will be <br /> 
+&emsp; upload and a WebGL link will be present in this file. Additionally, date of completion will also be added with a brief description of <br /> 
+&emsp; the file.
 Start Date: July 4, 2021 <br />
 <br />
 <br />
