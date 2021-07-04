@@ -11,3 +11,10 @@
 &emsp; Project gives general overview of the later projects and the purpose of pathway. Additionally, this project's tutorial aids in installing the Unity software (version 2020.3 LTS), Unity Hub, and Visual Studio (version 2019). <br />
 <b>Start Date:</b> July 4, 2021 <br />
 <b>Finish Date:</b> July 4, 2021 <br />
+<br />
+<br />
+<ins><b>Project:</b> Unit 1 - Introduction </ins> <br />
+<b>Description:</b> <br />
+&emsp; This project teaches how to create new C# scripts, call basic functions, and declare and modify new variables. <br />
+<b>Start Date:</b> July 4, 2021 <br />
+<b>Finish Date:</b> TBD <br />
