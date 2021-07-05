@@ -19,5 +19,8 @@
 <b>Software Versions:</b> <br />
 &emsp; <b>Unity:</b> 2020.3 LTS <br />
 &emsp; <b>Visual Studio:</b> 2019 <br />
+<b>Add-ons:</b> <br />
+&emsp; <ins> Unit 1 - Player Control Challenge </ins> <br />
+&emsp; <ins> Unit 1 - Player Control Bonus Features </ins> <br />
 <b>Start Date:</b> July 4, 2021 <br />
-<b>Finish Date:</b> TBD <br />
+<b>Finish Date:</b> July 5, 2021 <br />
