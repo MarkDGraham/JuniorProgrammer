@@ -25,7 +25,7 @@ using UnityEngine;
  *            variable.
  * (7/4/21) - Horiztoal control function changed from translate to rotate.
  * (7/4/21) - Variables change from public to private.
- * (7/4/21) - Code cleaned for .
+ * (7/4/21) - Code cleaned for finalization.
  */
 
 public class PlayerController : MonoBehaviour
@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour
     private float turnSpeed = 45.0f;
     private float horizontalInput;
     private float forwardInput;
+
 
     void Update()
     {
@@ -49,4 +50,4 @@ public class PlayerController : MonoBehaviour
                          * horizontalInput);
     }
 }
-// End of code.
+// End of program.
