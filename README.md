@@ -21,6 +21,6 @@
 &emsp; <b>Visual Studio:</b> 2019 <br />
 <b>Add-ons:</b> <br />
 &emsp; <ins> Unit 1 - Player Control Challenge </ins> <br />
-&emsp; <ins> Unit 1 - Player Control Bonus Features </ins> <br />
+&emsp; <ins> <a href= "file:///C:/Users/pvtmd/Desktop/Create%20with%20Code/index.html"> Unit 1 - Player Control Bonus Features </a> </ins> <br />
 <b>Start Date:</b> July 4, 2021 <br />
 <b>Finish Date:</b> July 5, 2021 <br />
