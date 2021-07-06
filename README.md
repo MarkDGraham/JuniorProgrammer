@@ -13,14 +13,14 @@
 <b>Finish Date:</b> July 4, 2021 <br />
 <br />
 <br />
-<ins><b>Project:</b> <a href="http://localhost:50497/">Unit 1 - Player Control </a> </ins> <br />
+<ins><b>Project:</b>Unit 1 - Player Control </ins> <br />
 <b>Description:</b> <br />
 &emsp; This project teaches how to create new C# scripts, call basic functions, and declare and modify new variables. <br />
 <b>Software Versions:</b> <br />
 &emsp; <b>Unity:</b> 2020.3 LTS <br />
 &emsp; <b>Visual Studio:</b> 2019 <br />
 <b>Add-ons:</b> <br />
-&emsp; <ins> <a href= "http://localhost:63422/">Unit 1 - Player Control Challenge</a> </ins> <br />
-&emsp; <ins> <a href= "http://localhost:57636/"> Unit 1 - Player Control Bonus Features </a> </ins> <br />
+&emsp; <ins> Unit 1 - Player Control Challenge </ins> <br />
+&emsp; <ins> Unit 1 - Player Control Bonus Features </ins> <br />
 <b>Start Date:</b> July 4, 2021 <br />
 <b>Finish Date:</b> July 5, 2021 <br />
