@@ -35,12 +35,13 @@ public class PlayerController : MonoBehaviour
     private float turnSpeed = 45.0f;
     private float horizontalInput;
     private float forwardInput;
+    public string inputID;
 
 
     void Update()
     {
-        horizontalInput = Input.GetAxis("Horizontal");
-        forwardInput = Input.GetAxis("Vertical");
+        horizontalInput = Input.GetAxis("Horizontal" + inputID);
+        forwardInput = Input.GetAxis("Vertical" + inputID);
 
         // Move the vehicle forward based on vertical input.
         transform.Translate(Vector3.forward * Time.deltaTime * speed

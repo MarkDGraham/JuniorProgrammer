@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Unit 1 - Bonus Features 1.unity
+- path: Assets/Scenes/Unit 1 - Player Control.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -25,11 +25,12 @@ public class PlayerControllerX : MonoBehaviour
     private float speed = 15.0f;
     private float rotationSpeed = 45.0f;
     private float verticalInput;
+    public string inputID;
 
     void FixedUpdate()
     {
         // Get the user's vertical input
-        verticalInput = Input.GetAxis("Vertical");
+        verticalInput = Input.GetAxis("Vertical" + inputID);
 
         // Move the plane forward at a constant rate
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
