@@ -13,7 +13,7 @@
 <b>Finish Date:</b> July 4, 2021 <br />
 <br />
 <br />
-<ins><b>Project:</b>Unit 1 - Player Control </ins> <br />
+<ins><b>Project:</b> Unit 1 - Player Control </ins> <br />
 <b>Description:</b> <br />
 &emsp; This project teaches how to create new C# scripts, call basic functions, and declare and modify new variables. <br />
 <b>Software Versions:</b> <br />
